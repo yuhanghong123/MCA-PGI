@@ -1,2 +1,2 @@
 # MCA-PGI
-用于注视预测MCA-PGI模型代码的实现
+The Pytorch Implementation of “A Novel Nonlinear Multi-Head Cross-Attention Network with Programmable Gradient Information for Gaze Estimation”.

@@ -9,6 +9,16 @@ We bulid the project with python=3.8.
 pip install -r requirements.txt
 ```
 
+## Data Preprocessing
+
+This project utilizes data processing codes provided in [GazeHub](http://phi-ai.org/GazeHub/). You can direct run the method' code using the processed dataset. 
+
+## Usage
+
+**Directly use our code.**
+
+We 
+
 ## Citation
 
 Part of the code implementation draws from YOLOv9 and EMTCAL.

@@ -11,8 +11,6 @@ pip install -r requirements.txt
 
 ## Dataset
 
-The datasets used in this study include ETH-XGaze (pre-trained), MPIIFaceGaze, EyeDiap, and Gaze360.
-
 The datasets used in this study include [ETH-XGaze](https://ait.ethz.ch/xgaze) (pre-trained), [MPIIFaceGaze](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/research/gaze-based-human-computer-interaction/its-written-all-over-your-face-full-face-appearance-based-gaze-estimation), [EyeDiap](https://www.idiap.ch/en/scientific-research/data/eyediap), and [Gaze360](https://gaze360.csail.mit.edu/)).
 
 If you use these datasets, please cite:
